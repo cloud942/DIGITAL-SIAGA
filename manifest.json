@@ -1,0 +1,15 @@
+{
+  "name": "Digital SIAGA",
+  "short_name": "Digital SIAGA",
+  "description": "Sistem Inventarisir Asset Terintegrasi & Akurat",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5E6D0",
+  "theme_color": "#5C3317",
+  "icons": [
+    { "src": "logo-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "logo-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
